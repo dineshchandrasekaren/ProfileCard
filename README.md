@@ -18,8 +18,8 @@ A simple and elegant **Profile Card App** built using **React Native with Expo**
 ![Screenshot_2025-06-16-18-30-48-093_host exp exponent]()
 
 | ![Profile Card](https://github.com/user-attachments/assets/3715ed35-630f-4cbe-9970-5b570d7076ec) |
-|:--:|
-| Profile Card | 
+|:--:|:--:|:--:|
+| Profile Card | ||
 
 ---
 
