@@ -15,8 +15,9 @@ A simple and elegant **Profile Card App** built using **React Native with Expo**
 ---
 
 ## 📸 Screenshots
+![Screenshot_2025-06-16-18-30-48-093_host exp exponent]()
 
-| ![Profile Card]() | ![Projects Section](https://github.com/user-attachments/assets/your-projects-screenshot-2.png) | ![Social Links](https://github.com/user-attachments/assets/your-social-screenshot-3.png) |
+| ![Profile Card](https://github.com/user-attachments/assets/3715ed35-630f-4cbe-9970-5b570d7076ec) |
 |:--:|
 | Profile Card | 
 
